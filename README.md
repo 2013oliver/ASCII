@@ -1,2 +1,2 @@
-# Explain
-- This program can convert pictures to ASCII text graphics.
+# 说明
+- 这个程序可以把图片转换成ASCII文本土图形（此程序编写中）。
